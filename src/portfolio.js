@@ -20,8 +20,8 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Talha Beytullah gokceoglu",
-  title: "Hi all, I'm talha",
+  username: "Clothers",
+  title: "Hi all, I'm Chother LTD",
   subTitle: emoji(
     "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
   ),
@@ -340,7 +340,7 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+90-5524724037",
+  number: "+44-73987647637",
   email_address: "charset.ggo@gmail.com"
 };
 
